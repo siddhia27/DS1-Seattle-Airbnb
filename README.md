@@ -35,8 +35,8 @@ Python 3.6
 * Collections
 
 ## Files
-listings.csv - details for all the listings and property type and their prices for different neighbourhood.
-calendar.csv - contains information of prices for all the seasons for year 2016-17
+* listings.csv - details for all the listings and property type and their prices for different neighbourhood.
+*    calendar.csv - contains information of prices for all the seasons for year 2016-17
 
 ## Results
 What are the most influential attributes associated with prices in Seattle Airbnb?
