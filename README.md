@@ -51,4 +51,5 @@ The above factors should be refered when you travel, based on this you can deter
 Travelers/Visitor can refer this data to make their plans/holidays cost effective.
 
 For more details, you can refer my corresponding blog post for this project at:
+https://medium.com/@siddhia27/travelling-to-seattle-c2ae6eb3de6a
 
